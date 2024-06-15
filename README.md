@@ -12,20 +12,12 @@ I am leading industrial AI projects to drive strategic decisions and robust anal
 
 ---
 
-#### 📊 **This Week I Spent My Time On**
-```readme
-Python       ████████████████▓░░░░░░░░░   1.7 % 
-C++          ███████▓░░░░░░░░░░░░░░░░░░   23.3 % 
-C#           ███▓░░░░░░░░░░░░░░░░░░░░░░   10.0 % 
-```
-<!--END_SECTION:waka-->
-
 #### 📈 **My GitHub Stats**
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: 📈 GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-theta-sage-73.vercel.app/api?username=moderncan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="Shervin's GitHub Stats" src="https://github-readme-stats-theta-sage-73.vercel.app/api?username=moderncan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 

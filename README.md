@@ -6,8 +6,6 @@ I am leading industrial AI projects to drive strategic decisions and robust anal
 
 💼 **Open to Collaborations**: I'm keen to collaborate on challenging AI governence. Feel free to reach out!
 
-📫 **Get in Touch**: You can reach me at shervin[dot]khazaeli [at] yahoo[dot]com
-
 🪄 **Hobbies**: Kickboxing 🥊 Motorcycling 🏍️ Piloting 🛩️
 
 ### Connect with me:

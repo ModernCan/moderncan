@@ -1,6 +1,6 @@
 ### Hello World, I'm Shervin! 👋
 
-🔭 **Working On**: Leading industrial AI projects to drive strategic decisions and robust analysis, with a commitment to ethical AI governance.
+I am leading industrial AI projects to drive strategic decisions and robust analysis, with a commitment to ethical AI governance.
 
 🌱 **Currently Senior Data Scientist**: (at Trinnex)
 
@@ -14,7 +14,7 @@
 
 #### 📊 **This Week I Spent My Time On**
 ```readme
-Python       ████████████████▓░░░░░░░░░   66.7 % 
+Python       ████████████████▓░░░░░░░░░   1.7 % 
 C++          ███████▓░░░░░░░░░░░░░░░░░░   23.3 % 
 C#           ███▓░░░░░░░░░░░░░░░░░░░░░░   10.0 % 
 ```

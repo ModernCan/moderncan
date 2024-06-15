@@ -2,7 +2,7 @@
 
 I am leading industrial AI projects to drive strategic decisions and robust analysis, with a commitment to ethical AI governance.
 
-🌱 **Currently Senior Data Scientist**: (at Trinnex)
+🌱 **Currently**: Senior Data Scientist
 
 💼 **Open to Collaborations**: I'm keen to collaborate on challenging AI governence. Feel free to reach out!
 

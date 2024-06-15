@@ -21,5 +21,4 @@ C#           ███▓░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 #### 📈 **My GitHub Stats**
-![Shervin's GitHub stats](https://github-readme-stats.vercel.app/api?username=moderncan&show_icons=true&theme=radical)
-
+![Shervin's GitHub stats](https://github-readme-stats-theta-sage-73.vercel.app/api?username=moderncan&show_icons=true&theme=radical)
